@@ -1,37 +1,32 @@
 import sys
-import random
-from PySide6 import QtCore, QtWidgets, QtGui
+from PyQt6.QtWidgets import QApplication, QMainWindow, QPushButton, QFileDialog
+
+from DirectoryIterator import iterate_through_files
 
 
-class MyWidget(QtWidgets.QWidget):
+class Window(QMainWindow):
     def __init__(self):
         super().__init__()
+        self.setMinimumSize(100, 100)
 
-        self.hello = ["Hallo Welt", "Hei maailma", "Hola Mundo", "Привет мир"]
+        btn = QPushButton('Quit', self)
+        self.setCentralWidget(btn)
 
-        self.button = QtWidgets.QPushButton("Click me!")
-        self.text = QtWidgets.QLabel("Hello World",
-                                     alignment=QtCore.Qt.AlignCenter)
-        #TODO:
-        self.filesystem = QtWidgets.QFileDialog(self)
+        btn.clicked.connect(self.clickHandler)
 
-        self.layout = QtWidgets.QVBoxLayout(self)
-        self.layout.addWidget(self.text)
-        self.layout.addWidget(self.button)
-        self.layout.addWidget(self.filesystem)
 
-        self.button.clicked.connect(self.magic)
+    # lets the user find a file
+    def clickHandler(self):
+        dialog = QFileDialog()
+        dialog.exec()
 
-    @QtCore.Slot()
-    def magic(self):
-        self.text.setText(random.choice(self.hello))
+        selectedFiles = dialog.selectedFiles()
+        print(selectedFiles)
 
 
 if __name__ == "__main__":
-    app = QtWidgets.QApplication([])
-
-    widget = MyWidget()
-    widget.resize(800, 600)
-    widget.show()
-
-    sys.exit(app.exec())
+    iterate_through_files()
+    app = QApplication(sys.argv)
+    window = Window()
+    window.show()
+    app.exec()
