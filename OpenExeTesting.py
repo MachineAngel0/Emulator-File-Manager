@@ -1,6 +1,8 @@
 import os
 import shutil
 
+
+
 path = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Substance 3D Painter 2024\\Adobe Substance 3D Painter.exe"
 "C:\Program Files (x86)\Steam\steamapps\common\Substance 3D Painter 2024\Adobe Substance 3D Painter.exe"
 
