@@ -7,6 +7,7 @@ from PyQt6 import QtCore, QtGui, QtWidgets
 
 import DirectoryIterator
 
+from functools import partial
 
 class MainWindow(QMainWindow):
     def __init__(self):
@@ -21,6 +22,8 @@ class MainWindow(QMainWindow):
         # TODO: read and write to save files
         for i in DirectoryIterator.emulators_names:
             self.generate_layout(i)
+
+        self.FileExtractorLayout = self.findChild(QVBoxLayout, "FileExtractorLayout")
 
 
 
@@ -60,6 +63,10 @@ class MainWindow(QMainWindow):
         self.Button_ExeLocation = QPushButton(parent=self.centralwidget)
         self.Button_ExeLocation.setObjectName("ExeLocation_FileDialogue_2")
         self.Button_ExeLocation.setText("C://")
+        self.Button_ExeLocation.setMaximumSize(QtCore.QSize(128*2, 32))
+
+        # button binding
+        self.Button_ExeLocation.clicked.connect(lambda state, x = self.Button_ExeLocation: self.file_picker(x))
 
         self.Label_GameFolder = QLabel(parent=self.centralwidget)
         self.Label_GameFolder.setObjectName("label_17")
@@ -68,12 +75,16 @@ class MainWindow(QMainWindow):
         self.Button_GameFolder = QPushButton(parent=self.centralwidget)
         self.Button_GameFolder.setObjectName("pushButton_25")
         self.Button_GameFolder.setText("C://")
+        self.Button_GameFolder.setMaximumSize(QtCore.QSize(128 * 2, 32))
+        # button binding
+        self.Button_GameFolder.clicked.connect(lambda state, x=self.Button_GameFolder: self.file_picker(x))
 
         self.Button_OpenExe = QPushButton(parent=self.centralwidget)
         self.Button_OpenExe.setObjectName("pushButton_38")
         self.Button_OpenExe.setText("Launch")
         # bind to open EXE file
-        self.Button_OpenExe.clicked.connect(self.open_exe)
+        self.Button_OpenExe.clicked.connect(lambda state, x = self.Button_ExeLocation.text(): self.open_exe(x))
+
 
         # add labels and buttons to the horizontal layout
         self.HLayout.addWidget(self.Label_EmulatorName)
@@ -89,9 +100,16 @@ class MainWindow(QMainWindow):
     def find_emulators_handler(self):
         print("insert directory searcher here")
 
-    def button_test(self):
-        print("Hello")
+    def file_picker(self, buttonRef):
+        dialog = QFileDialog()
+        dialog.exec()
+
+        selectedFiles = dialog.selectedFiles()
+        print(selectedFiles)
+        buttonRef.setText(selectedFiles[0])
 
     def open_exe(self, file_path):
         print("Open Exe")
         print(file_path)
+
+
