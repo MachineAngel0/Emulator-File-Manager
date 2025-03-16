@@ -2,10 +2,14 @@ import os
 import sys
 import string
 
+# ive left these out so the GUI isn't bloated
 
+optional_emulators = ["Nes", "SNES", "N64", "GameCube", "Wii", "Wii U", "Switch", "Game Boy", "Game Boy Color",
+                      "Game Boy Advance", "Sega Saturn", "Sega Dreamcast", "PSP Vita", "PS4", "Xbox", "Xbox 360", ]
 
-emulators_names = ["3DS", "DS", "PS1", "PS2", "PS3", "PSP"]
-
+emulators_names = ["3DS", "DS", "PS1", "PS2", "PS3", "PSP", ]
+#uncomment if i want to add the other emulators
+#emulators_names.extend(optional_emulators)
 
 # Output: My name is Alice and I am 30 years old.
 # Output: My name is Bob and I work as an engineer.
@@ -58,7 +62,7 @@ def iterate_through_all_directories():
         # removes .exe from the file name
         tail_without_extension = os.path.splitext(tail)[0]
 
-        #check if the emulator name is within the filename
+        # check if the emulator name is within the filename
         for emulator_name in emulators_list:
             if emulator_name in tail_without_extension:
                 print(f"Found: {tail_without_extension}")
@@ -71,4 +75,4 @@ def iterate_through_all_directories():
     test = list(found_emulators.values())
     os.startfile(test[0])
     """
-#iterate_through_all_directories()
+# iterate_through_all_directories()
