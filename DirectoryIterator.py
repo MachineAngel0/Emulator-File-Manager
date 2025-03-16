@@ -3,6 +3,10 @@ import sys
 import string
 
 
+
+emulators_names = ["3DS", "DS", "PS1", "PS2", "PS3", "PSP"]
+
+
 # Output: My name is Alice and I am 30 years old.
 # Output: My name is Bob and I work as an engineer.
 
