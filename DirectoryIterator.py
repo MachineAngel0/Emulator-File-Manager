@@ -71,4 +71,4 @@ def iterate_through_all_directories():
     test = list(found_emulators.values())
     os.startfile(test[0])
     """
-iterate_through_all_directories()
+#iterate_through_all_directories()
