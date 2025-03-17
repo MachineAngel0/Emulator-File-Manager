@@ -4,6 +4,7 @@ from PyQt6.QtWidgets import QApplication
 
 from WindowGUI import MainWindow
 
+# pyinstaller main.spec on command line to build the package
 
 
 
