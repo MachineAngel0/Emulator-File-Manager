@@ -7,7 +7,6 @@ from PyQt6 import QtCore, QtGui, QtWidgets
 
 import DirectoryIterator
 
-from functools import partial
 
 class MainWindow(QMainWindow):
     def __init__(self):
@@ -22,8 +21,6 @@ class MainWindow(QMainWindow):
         # TODO: read and write to save files
         for i in DirectoryIterator.emulators_names:
             self.generate_layout(i)
-
-        self.FileExtractorLayout = self.findChild(QVBoxLayout, "FileExtractorLayout")
 
 
 
