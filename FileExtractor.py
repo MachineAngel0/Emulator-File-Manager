@@ -17,5 +17,5 @@ temp_rar_extract_file_path = "C:\\Users\\Adams Humbert\\Downloads\\WC2011"
 
 
 
-FileExtractor(temp_rar_file_path, temp_rar_extract_file_path)
-FileExtractor(temp_7z_file_path, temp_7z_extract_file_path)
+#FileExtractor(temp_rar_file_path, temp_rar_extract_file_path)
+#FileExtractor(temp_7z_file_path, temp_7z_extract_file_path)

@@ -7,9 +7,17 @@ import string
 optional_emulators = ["Nes", "SNES", "N64", "GameCube", "Wii", "Wii U", "Switch", "Game Boy", "Game Boy Color",
                       "Game Boy Advance", "Sega Saturn", "Sega Dreamcast", "PSP Vita", "PS4", "Xbox", "Xbox 360", ]
 
-emulators_names = ["3DS", "DS", "PS1", "PS2", "PS3", "PSP", ]
-#uncomment if i want to add the other emulators
-#emulators_names.extend(optional_emulators)
+# these two should make to each other based on the emulator
+emulators_names = ["3DS", "DS", "PS1", "PS2", "PS3", "PSP",]
+emulators_exe_name_list = ["citra-qt", "DeSmuME", "duckstation", "pcsx2-qt", "rpcs3", "PPSSPPWindows", ]
+
+emulator_name_to_exe_name = {}
+for i in range(len(emulators_names)):
+    emulator_name_to_exe_name[emulators_names[i]] = emulators_exe_name_list[i]
+
+
+# uncomment if i want to add the other emulators
+# emulators_names.extend(optional_emulators)
 
 # Output: My name is Alice and I am 30 years old.
 # Output: My name is Bob and I work as an engineer.
@@ -30,10 +38,12 @@ def iterate_through_directory(root_directory='C:\\', file_extention='.exe'):
             if filepath.lower().endswith(file_extention):
                 found_exe.append(filepath)
 
+
     # print(found_exe)
     return found_exe
 
 
+# returns a dict of the emulator name to the emulator file location
 def iterate_through_all_directories():
     root_drives = get_root_drives()
 
@@ -47,8 +57,7 @@ def iterate_through_all_directories():
     # print(extension_to_parse)
     # return extension_to_parse
     # parse exe for what im looking for, and then move to its own function when done
-    emulators_list = ["pcsx2-qt", "duckstation", "DeSmuME", "rpcs3", "PPSSPPWindows",
-                      "citra-qt"]
+
     found_emulators = {}
     # hash to store emulator to filepath
     #
@@ -63,13 +72,22 @@ def iterate_through_all_directories():
         tail_without_extension = os.path.splitext(tail)[0]
 
         # check if the emulator name is within the filename
-        for emulator_name in emulators_list:
-            if emulator_name in tail_without_extension:
+        '''
+        for emulator_name_from_list in emulators_exe_name_list:
+            if emulator_name_from_list in tail_without_extension:
                 print(f"Found: {tail_without_extension}")
-                print(f"Found: {emulator_name}")
-                found_emulators[emulator_name] = filepath
+                print(f"Found: {emulator_name_from_list}")
+                found_emulators[emulator_name_from_list] = filepath
+        '''
+
+        for key, value in emulator_name_to_exe_name.items():
+            if value in tail_without_extension:
+                print(f"Found: {tail_without_extension}")
+                print(f"Found: {value}")
+                found_emulators[key] = filepath
 
     print(found_emulators)
+    return found_emulators
     """
     // tests to open up one of the exe's
     test = list(found_emulators.values())
