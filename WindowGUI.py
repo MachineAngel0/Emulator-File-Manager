@@ -63,7 +63,7 @@ class MainWindow(QMainWindow):
         self.Button_ExeLocation = QPushButton(parent=self.centralwidget)
         self.Button_ExeLocation.setObjectName("ExeLocation_FileDialogue_2")
         self.Button_ExeLocation.setText("C://")
-        self.Button_ExeLocation.setMaximumSize(QtCore.QSize(128*2, 32))
+        self.Button_ExeLocation.setMaximumSize(QtCore.QSize(256, 32))
 
         # button binding
         self.Button_ExeLocation.clicked.connect(lambda state, x = self.Button_ExeLocation: self.file_picker(x))
@@ -75,7 +75,7 @@ class MainWindow(QMainWindow):
         self.Button_GameFolder = QPushButton(parent=self.centralwidget)
         self.Button_GameFolder.setObjectName("pushButton_25")
         self.Button_GameFolder.setText("C://")
-        self.Button_GameFolder.setMaximumSize(QtCore.QSize(128 * 2, 32))
+        self.Button_GameFolder.setMaximumSize(QtCore.QSize(256, 32))
         # button binding
         self.Button_GameFolder.clicked.connect(lambda state, x=self.Button_GameFolder: self.file_picker(x))
 
