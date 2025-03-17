@@ -76,8 +76,7 @@ class JsonUtilityClass:
 
     def set_new_emulator_path_json(self, emulator_name, json_file_name, file_path):
 
-
-        #doesn't check to see if path/file exists
+        # doesn't check to see if path/file exists
 
         print(json_file_name)
 
@@ -98,7 +97,6 @@ class JsonUtilityClass:
         json.dump(data, file_test, indent=4)
         file_test.close()
 
-
     def unit_test_json_utility(self):
         self.create_json_file(os.getcwd(), self.emulator_file_json_name)
         self.set_new_emulator_path_json("3DS", self.emulator_file_json_name, "D://")
@@ -107,5 +105,4 @@ class JsonUtilityClass:
         self.query_json_emulator_path("DS", self.emulator_file_json_name)
         self.query_json_emulator_path("NES", self.emulator_file_json_name)
 
-
-#JsonUtilityClass().unit_test_json_utility()
+# JsonUtilityClass().unit_test_json_utility()

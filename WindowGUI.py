@@ -8,16 +8,15 @@ from PyQt6.uic import loadUi
 from PyQt6.uic.Compiler.qtproxies import QtCore
 from PyQt6 import QtCore, QtGui, QtWidgets
 
-
 import DirectoryIterator
 
 from OpenExeUtility import open_exe
 from JsonUtility import JsonUtilityClass
 from FileExtractor import FileExtractor
 
-
 if getattr(sys, 'frozen', False):
     os.chdir(sys._MEIPASS)
+
 
 # (".", "EmulatorFileManager3.ui")
 
@@ -27,7 +26,6 @@ class MainWindow(QMainWindow):
         super(MainWindow, self).__init__()
 
         # Change the current dir to the temporary one created by PyInstaller
-
 
         loadUi("EmulatorFileManager3.ui", self)
         # init the drop box
@@ -62,7 +60,6 @@ class MainWindow(QMainWindow):
         # handles quitting the application
         QuitButton = self.findChild(QAction, "Quit_Button")
         QuitButton.triggered.connect(lambda state: self.QuitPYQT_Handler())
-
 
     def add_emulators_to_drop_down(self):
         self.emulator_drop_box = self.findChild(QComboBox, "EmulatorDropBox")
@@ -105,7 +102,6 @@ class MainWindow(QMainWindow):
         else:
             button_ref.setText("Select Folder")
 
-
     # find emulators on the persons device
     def FindEmulators_Handler(self):
         print("pressed")
@@ -123,8 +119,6 @@ class MainWindow(QMainWindow):
 class Emulator_HorizontalRow(QMainWindow):
     def __init__(self):
         super(Emulator_HorizontalRow, self).__init__()
-
-
 
         loadUi("EmulatorFileManager3.ui", self)
         self.emulator_name = None
@@ -232,7 +226,6 @@ class Emulator_HorizontalRow(QMainWindow):
                 self.JsonUtilityInstance.set_new_emulator_path_json(self.emulator_name, json_file_name,
                                                                     "Select A Folder")
 
-
     def directory_picker(self, button_ref, json_file_name):
 
         text_before_change = button_ref.text()
@@ -251,10 +244,12 @@ class Emulator_HorizontalRow(QMainWindow):
         else:
             if text_before_change:
                 button_ref.setText(text_before_change)
-                self.JsonUtilityInstance.set_new_emulator_path_json(self.emulator_name, json_file_name, text_before_change)
+                self.JsonUtilityInstance.set_new_emulator_path_json(self.emulator_name, json_file_name,
+                                                                    text_before_change)
             else:
                 button_ref.setText("Select A Folder")
-                self.JsonUtilityInstance.set_new_emulator_path_json(self.emulator_name, json_file_name, "Select A Folder")
+                self.JsonUtilityInstance.set_new_emulator_path_json(self.emulator_name, json_file_name,
+                                                                    "Select A Folder")
 
     def open_exe_handler(self, file_path):
         print(file_path)

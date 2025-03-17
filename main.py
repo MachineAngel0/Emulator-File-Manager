@@ -7,7 +7,6 @@ from WindowGUI import MainWindow
 # pyinstaller main.spec on command line to build the package
 
 
-
 # File path to designer "C:\Users\Adams Humbert\AppData\Local\Programs\Python\Python313\Lib\site-packages\PySide6\designer.exe"
 
 
@@ -17,5 +16,3 @@ if __name__ == "__main__":
     window = MainWindow()
     window.show()
     app.exec()
-
-
