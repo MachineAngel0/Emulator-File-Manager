@@ -1,10 +1,13 @@
+import os
+import sys
+
 from PyQt6.QtGui import QAction
 from PyQt6.QtWidgets import QApplication, QMainWindow, QPushButton, QFileDialog, QHBoxLayout, QVBoxLayout, QLabel, \
-    QWidget, QFormLayout, QComboBox, QWidgetAction
+    QComboBox
 from PyQt6.uic import loadUi
 from PyQt6.uic.Compiler.qtproxies import QtCore
-from PySide6.QtCore import QSize
 from PyQt6 import QtCore, QtGui, QtWidgets
+
 
 import DirectoryIterator
 
@@ -13,12 +16,20 @@ from JsonUtility import JsonUtilityClass
 from FileExtractor import FileExtractor
 
 
+if getattr(sys, 'frozen', False):
+    os.chdir(sys._MEIPASS)
+
+# (".", "EmulatorFileManager3.ui")
+
+
 class MainWindow(QMainWindow):
     def __init__(self):
         super(MainWindow, self).__init__()
 
-        loadUi("EmulatorFileManager3.ui", self)
+        # Change the current dir to the temporary one created by PyInstaller
 
+
+        loadUi("EmulatorFileManager3.ui", self)
         # init the drop box
         self.emulator_drop_box = None
         self.add_emulators_to_drop_down()
@@ -112,6 +123,8 @@ class MainWindow(QMainWindow):
 class Emulator_HorizontalRow(QMainWindow):
     def __init__(self):
         super(Emulator_HorizontalRow, self).__init__()
+
+
 
         loadUi("EmulatorFileManager3.ui", self)
         self.emulator_name = None

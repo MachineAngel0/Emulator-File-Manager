@@ -2,5 +2,14 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/main/_internal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/main/_internal/EmulatorFileManager3.ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/main/_internal/dist/main/_internal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/main/_internal/dist/main/_internal/dist/main/_internal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal/dist/main/_internal" vcs="Git" />
   </component>
 </project>

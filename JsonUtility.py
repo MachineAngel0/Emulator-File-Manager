@@ -14,6 +14,7 @@ class JsonUtilityClass:
     emulator_game_file_json_name = "EmulatorsGamePaths.json"
 
     def create_json_file(self, current_directory, json_file_name):
+        print(f"Current Directory is: {current_directory}")
         emulators_names_to_path = {}
 
         # init paths for the json file
