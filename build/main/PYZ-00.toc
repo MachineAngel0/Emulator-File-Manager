@@ -1,0 +1,1158 @@
+('C:\\Users\\Adams '
+ 'Humbert\\Documents\\JetBrainProjects\\Python\\Scripts\\build\\main\\PYZ-00.pyz',
+ [('DirectoryIterator',
+   'C:\\Users\\Adams '
+   'Humbert\\Documents\\JetBrainProjects\\Python\\Scripts\\DirectoryIterator.py',
+   'PYMODULE'),
+  ('FileExtractor',
+   'C:\\Users\\Adams '
+   'Humbert\\Documents\\JetBrainProjects\\Python\\Scripts\\FileExtractor.py',
+   'PYMODULE'),
+  ('JsonUtility',
+   'C:\\Users\\Adams '
+   'Humbert\\Documents\\JetBrainProjects\\Python\\Scripts\\JsonUtility.py',
+   'PYMODULE'),
+  ('MacroDebug',
+   'C:\\Users\\Adams '
+   'Humbert\\Documents\\JetBrainProjects\\Python\\Scripts\\MacroDebug.py',
+   'PYMODULE'),
+  ('OpenExeUtility',
+   'C:\\Users\\Adams '
+   'Humbert\\Documents\\JetBrainProjects\\Python\\Scripts\\OpenExeUtility.py',
+   'PYMODULE'),
+  ('PyQt6',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\__init__.py',
+   'PYMODULE'),
+  ('PyQt6.uic',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\__init__.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\Compiler\\__init__.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.as_string',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\Compiler\\as_string.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.compiler',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\Compiler\\compiler.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.indenter',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\Compiler\\indenter.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.misc',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\Compiler\\misc.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.proxy_metaclass',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\Compiler\\proxy_metaclass.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.qobjectcreator',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\Compiler\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Compiler.qtproxies',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\Compiler\\qtproxies.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Loader',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\Loader\\__init__.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Loader.loader',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\Loader\\loader.py',
+   'PYMODULE'),
+  ('PyQt6.uic.Loader.qobjectcreator',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\Loader\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt6.uic.compile_ui',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\compile_ui.py',
+   'PYMODULE'),
+  ('PyQt6.uic.enum_map',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\enum_map.py',
+   'PYMODULE'),
+  ('PyQt6.uic.exceptions',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\exceptions.py',
+   'PYMODULE'),
+  ('PyQt6.uic.icon_cache',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\icon_cache.py',
+   'PYMODULE'),
+  ('PyQt6.uic.load_ui',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\load_ui.py',
+   'PYMODULE'),
+  ('PyQt6.uic.objcreator',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\objcreator.py',
+   'PYMODULE'),
+  ('PyQt6.uic.properties',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\properties.py',
+   'PYMODULE'),
+  ('PyQt6.uic.ui_file',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\ui_file.py',
+   'PYMODULE'),
+  ('PyQt6.uic.uiparser',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyQt6\\uic\\uiparser.py',
+   'PYMODULE'),
+  ('WindowGUI',
+   'C:\\Users\\Adams '
+   'Humbert\\Documents\\JetBrainProjects\\Python\\Scripts\\WindowGUI.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_ios_support',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_ios_support.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.qt',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_abc.py',
+   'PYMODULE'),
+  ('pathlib._local',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('patoolib',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\__init__.py',
+   'PYMODULE'),
+  ('patoolib.configuration',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\configuration.py',
+   'PYMODULE'),
+  ('patoolib.fileutil',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\fileutil.py',
+   'PYMODULE'),
+  ('patoolib.log',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\log.py',
+   'PYMODULE'),
+  ('patoolib.mime',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\mime.py',
+   'PYMODULE'),
+  ('patoolib.programs',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\__init__.py',
+   'PYMODULE'),
+  ('patoolib.programs.ar',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\ar.py',
+   'PYMODULE'),
+  ('patoolib.programs.arc',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\arc.py',
+   'PYMODULE'),
+  ('patoolib.programs.archmage',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\archmage.py',
+   'PYMODULE'),
+  ('patoolib.programs.arj',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\arj.py',
+   'PYMODULE'),
+  ('patoolib.programs.bsdcpio',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\bsdcpio.py',
+   'PYMODULE'),
+  ('patoolib.programs.bsdtar',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\bsdtar.py',
+   'PYMODULE'),
+  ('patoolib.programs.bzip2',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\bzip2.py',
+   'PYMODULE'),
+  ('patoolib.programs.bzip3',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\bzip3.py',
+   'PYMODULE'),
+  ('patoolib.programs.cabextract',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\cabextract.py',
+   'PYMODULE'),
+  ('patoolib.programs.chmlib',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\chmlib.py',
+   'PYMODULE'),
+  ('patoolib.programs.clzip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\clzip.py',
+   'PYMODULE'),
+  ('patoolib.programs.compress',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\compress.py',
+   'PYMODULE'),
+  ('patoolib.programs.cpio',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\cpio.py',
+   'PYMODULE'),
+  ('patoolib.programs.dpkg',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\dpkg.py',
+   'PYMODULE'),
+  ('patoolib.programs.flac',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\flac.py',
+   'PYMODULE'),
+  ('patoolib.programs.genisoimage',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\genisoimage.py',
+   'PYMODULE'),
+  ('patoolib.programs.gzip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\gzip.py',
+   'PYMODULE'),
+  ('patoolib.programs.isoinfo',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\isoinfo.py',
+   'PYMODULE'),
+  ('patoolib.programs.jar',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\jar.py',
+   'PYMODULE'),
+  ('patoolib.programs.lbzip2',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\lbzip2.py',
+   'PYMODULE'),
+  ('patoolib.programs.lcab',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\lcab.py',
+   'PYMODULE'),
+  ('patoolib.programs.lha',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\lha.py',
+   'PYMODULE'),
+  ('patoolib.programs.lhasa',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\lhasa.py',
+   'PYMODULE'),
+  ('patoolib.programs.lrzip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\lrzip.py',
+   'PYMODULE'),
+  ('patoolib.programs.lz4',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\lz4.py',
+   'PYMODULE'),
+  ('patoolib.programs.lzip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\lzip.py',
+   'PYMODULE'),
+  ('patoolib.programs.lzma',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\lzma.py',
+   'PYMODULE'),
+  ('patoolib.programs.lzop',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\lzop.py',
+   'PYMODULE'),
+  ('patoolib.programs.mac',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\mac.py',
+   'PYMODULE'),
+  ('patoolib.programs.nomarch',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\nomarch.py',
+   'PYMODULE'),
+  ('patoolib.programs.p7azip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\p7azip.py',
+   'PYMODULE'),
+  ('patoolib.programs.p7rzip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\p7rzip.py',
+   'PYMODULE'),
+  ('patoolib.programs.p7zip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\p7zip.py',
+   'PYMODULE'),
+  ('patoolib.programs.p7zz',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\p7zz.py',
+   'PYMODULE'),
+  ('patoolib.programs.p7zzs',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\p7zzs.py',
+   'PYMODULE'),
+  ('patoolib.programs.pbzip2',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\pbzip2.py',
+   'PYMODULE'),
+  ('patoolib.programs.pdlzip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\pdlzip.py',
+   'PYMODULE'),
+  ('patoolib.programs.pigz',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\pigz.py',
+   'PYMODULE'),
+  ('patoolib.programs.plzip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\plzip.py',
+   'PYMODULE'),
+  ('patoolib.programs.py_bz2',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\py_bz2.py',
+   'PYMODULE'),
+  ('patoolib.programs.py_echo',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\py_echo.py',
+   'PYMODULE'),
+  ('patoolib.programs.py_gzip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\py_gzip.py',
+   'PYMODULE'),
+  ('patoolib.programs.py_lzma',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\py_lzma.py',
+   'PYMODULE'),
+  ('patoolib.programs.py_tarfile',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\py_tarfile.py',
+   'PYMODULE'),
+  ('patoolib.programs.py_zipfile',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\py_zipfile.py',
+   'PYMODULE'),
+  ('patoolib.programs.rar',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\rar.py',
+   'PYMODULE'),
+  ('patoolib.programs.rpm',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\rpm.py',
+   'PYMODULE'),
+  ('patoolib.programs.rpm2cpio',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\rpm2cpio.py',
+   'PYMODULE'),
+  ('patoolib.programs.rzip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\rzip.py',
+   'PYMODULE'),
+  ('patoolib.programs.shar',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\shar.py',
+   'PYMODULE'),
+  ('patoolib.programs.shorten',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\shorten.py',
+   'PYMODULE'),
+  ('patoolib.programs.star',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\star.py',
+   'PYMODULE'),
+  ('patoolib.programs.tar',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\tar.py',
+   'PYMODULE'),
+  ('patoolib.programs.unace',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\unace.py',
+   'PYMODULE'),
+  ('patoolib.programs.unadf',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\unadf.py',
+   'PYMODULE'),
+  ('patoolib.programs.unalz',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\unalz.py',
+   'PYMODULE'),
+  ('patoolib.programs.unar',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\unar.py',
+   'PYMODULE'),
+  ('patoolib.programs.uncompress',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\uncompress.py',
+   'PYMODULE'),
+  ('patoolib.programs.unrar',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\unrar.py',
+   'PYMODULE'),
+  ('patoolib.programs.unshar',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\unshar.py',
+   'PYMODULE'),
+  ('patoolib.programs.unzip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\unzip.py',
+   'PYMODULE'),
+  ('patoolib.programs.xdms',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\xdms.py',
+   'PYMODULE'),
+  ('patoolib.programs.xz',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\xz.py',
+   'PYMODULE'),
+  ('patoolib.programs.zip',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\zip.py',
+   'PYMODULE'),
+  ('patoolib.programs.zoo',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\zoo.py',
+   'PYMODULE'),
+  ('patoolib.programs.zopfli',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\zopfli.py',
+   'PYMODULE'),
+  ('patoolib.programs.zpaq',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\zpaq.py',
+   'PYMODULE'),
+  ('patoolib.programs.zstd',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\programs\\zstd.py',
+   'PYMODULE'),
+  ('patoolib.util',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\patoolib\\util.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\random.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\socket.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Adams '
+   'Humbert\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\zipimport.py',
+   'PYMODULE')])
