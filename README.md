@@ -2,6 +2,8 @@ Emulator File Manager
 
 A Desktop Application made in Python to keep track of emulator files and to launch emulators from 
 
+Not Tested On Linux or Mac
+
 Made at the request of a friend
 
 Features
