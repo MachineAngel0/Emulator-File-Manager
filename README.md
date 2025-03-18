@@ -9,3 +9,8 @@ Features
 - One place to launch all emulators executables
 - One Click File Extractor into the Chosen Emulator Game Folder
 - Saves Emulator executables and Emulator Game file paths 
+
+Directions:
+- Download from releases on the right hand side
+- Extract zip file
+- Executable Location: dist->main->main.exe (Double Click To Launch)
